@@ -1,3 +1,6 @@
+![Screenshot 2024-04-13 084757](https://github.com/manogarans/Correlation_Regression/assets/139331782/d1872a94-4075-4857-9c98-62db5dab1610)
+
+
 # Correlation and regression for data analysis
 # Aim : 
 
