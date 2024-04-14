@@ -1,5 +1,3 @@
-![Screenshot 2024-04-13 084757](https://github.com/manogarans/Correlation_Regression/assets/139331782/d1872a94-4075-4857-9c98-62db5dab1610)
-
 
 # Correlation and regression for data analysis
 # Aim : 
@@ -23,6 +21,8 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
+### DEVELOPED BY : MANOGARAN S
+### REG NO : 212223240081
 ```python
 import numpy as np
 import math
